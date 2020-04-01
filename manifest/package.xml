@@ -4,51 +4,19 @@
 
     <types>
         <members>Bank__c</members>
-        <name>CustomObject</name>
-    </types>
-
-    <types>
         <members>Account__c</members>
-        <name>CustomObject</name>
-    </types>
-
-    <types>
-        <members>Loan__c</members>
-        <name>CustomObject</name>
-    </types>
-
-    <types>
         <members>Branch__c</members>
-        <name>CustomObject</name>
-    </types>
-
-    <types>
+        <members>Loan__c</members>
         <members>Transaction__c</members>
         <name>CustomObject</name>
-    </types>
-
-    <types>
-        <members>Transaction__c</members>
-        <name>CustomTab</name>
     </types>
 
     <types>
         <members>Bank__c</members>
-        <name>CustomTab</name>
-    </types>
-
-    <types>
         <members>Account__c</members>
-        <name>CustomTab</name>
-    </types>
-
-    <types>
-        <members>Loan__c</members>
-        <name>CustomTab</name>
-    </types>
-
-    <types>
         <members>Branch__c</members>
+        <members>Loan__c</members>
+        <members>Transaction__c</members>
         <name>CustomTab</name>
     </types>
 
@@ -58,20 +26,19 @@
         <name>ApexTrigger</name>
     </types>
 
+
      <types>
         <members>Cities</members>
         <name>GlobalValueSet</name>
     </types>
 
+
     <types>
         <members>Banking_Application_UtilityBar</members>
-        <name>FlexiPage</name>
-    </types>
-    <types>
         <members>Bank_Account_Record_Page1</members>
         <name>FlexiPage</name>
     </types>
-
+    
 
     <types>
         <members>bankingconceptuallogouniquesymbolba</members>
