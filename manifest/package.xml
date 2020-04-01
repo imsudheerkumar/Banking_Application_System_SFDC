@@ -8,6 +8,7 @@
         <members>Branch__c</members>
         <members>Loan__c</members>
         <members>Transaction__c</members>
+        <members>Contact</members>
         <name>CustomObject</name>
     </types>
 
