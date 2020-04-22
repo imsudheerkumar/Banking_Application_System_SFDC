@@ -51,9 +51,12 @@
         <name>CustomMetadata</name>
    </types>
 
-   
 
-    
+   <types>
+    <members>Banking_Application_System</members>
+    <name>CustomApplication</name>
+
+</types>
 
     <version>48.0</version>
 </Package>
