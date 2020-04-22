@@ -46,6 +46,10 @@
         <name>ContentAsset</name>
     </types>
    
+   <types>
+        <members>TriggerSettings__mdt</members>
+        <name>CustomMetadata</name>
+   </types>
 
    
 
