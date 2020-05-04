@@ -1,4 +1,4 @@
-Banking Application System : Basic demo app
+Banking Application System : Basic Salesforce App
 
 #Schema of the App :
 
